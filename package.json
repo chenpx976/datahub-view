@@ -1,6 +1,6 @@
 {
   "name": "@alipay/datahub-view",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "view layer for DataHub",
   "eggPlugin": {
     "name": "dataHubView"
@@ -17,10 +17,6 @@
     "view"
   ],
   "main": "dist/datahub-view.js",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/macacajs/datahub-view"
-  },
   "links": {
     "document": "//macacajs.github.io/macaca-datahub",
     "issue": "//github.com/macacajs/macaca-datahub/issues",
